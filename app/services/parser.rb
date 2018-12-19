@@ -1,0 +1,2 @@
+class LeadParser::LeadParser
+end
